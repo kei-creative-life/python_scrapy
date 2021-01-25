@@ -1,0 +1,24 @@
+name,url
+【初心者向け】テキストエディタ Vimのコマンドまとめ,https://spesperficio.com/vi-command/
+【初心者でも分かりやすく】ファイルを探す findコマンド【Linux】,https://spesperficio.com/linux-find/
+【Ruby】ややこしいゲッター/セッター/アクセッサーを解説【初心者向け】,https://spesperficio.com/ruby-getter-setter/
+【Ruby】ハッシュのシンボルについて解説【初心者向け】,https://spesperficio.com/ruby-hash-symbol/
+【Ruby】ポケモンでRubyのキーワード引数を理解しよう【初心者向け】,https://spesperficio.com/ruby-key-argument/
+【Rails】JSONを返すとは？APIを叩くとは？分かりやすく解説,https://spesperficio.com/rails-json/
+【Rails】RSpecでテストコードを書いてみよう【モデル編】,https://spesperficio.com/rails-rspec-beginner/
+【Python】pathlibモジュールを使ったファイル操作まとめ【保存版】,https://spesperficio.com/python-pathlib/
+【初心者向け】gitのコマンド操作まとめ【保存版】,https://spesperficio.com/git-beginner/
+RailsのデータベースをSQLiteからPostgresqlに変える方法【デイトラ】,https://spesperficio.com/daytrial-postgresql-prepare/
+【Photoshop】アクション映画風の合成を簡単に作る方法,https://spesperficio.com/actionmovie/
+【Photoshop講座】英語版Photoshopに簡単に切り替える方法,https://spesperficio.com/englishchange/
+【jQuery編】アコーディオンメニューの作り方,https://spesperficio.com/jquery-accordion/
+【Rails】PG::DuplicateTable: ERROR:  relation “〇〇” already existsの解決,https://spesperficio.com/db-exists/
+【徹底レビュー】デイトラの評判は？コスパ最強！【プログラミング】,https://spesperficio.com/daytrial-course/
+【postgreSQL】pg_ctl: could not start server 【デイトラ】,https://spesperficio.com/daytrial-postgres-error/
+【Rails】undefined method ‘〇〇’ for nil:NilClass【デイトラ】,https://spesperficio.com/error-nilclass/
+【Javascript】アロー関数について分かりやすく解説,https://spesperficio.com/javascript-arrow-function/
+【heroku 】bundler: failed to load command: pumaのエラー対応【デイトラ】,https://spesperficio.com/daytrial-puma-error/
+【初心者向け】Javascriptの配列まとめ【スプレッド構文】,https://spesperficio.com/javascript-array/
+【初心者向け】gitコマンドのaddとcommitについて詳しく解説,https://spesperficio.com/git-add-commit/
+【Javascript】条件に合う要素を抜き出す filter関数について解説,https://spesperficio.com/javascript-filter-function/
+【図解】イベントを止めるメソッド preventDefault / stopPropagation,https://spesperficio.com/javascript-bubble/
